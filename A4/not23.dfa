@@ -1,0 +1,28 @@
+2
+0
+1
+7
+start
+zero
+0mod3
+1mod3
+1mod3plus
+2mod3
+2mod3plus
+start
+2
+1mod3
+2mod3plus
+12
+start 0 zero
+start 1 1mod3
+1mod3 0 2mod3
+1mod3 1 0mod3
+2mod3 0 1mod3plus
+2mod3 1 2mod3plus
+0mod3 0 0mod3
+0mod3 1 1mod3
+1mod3plus 0 2mod3
+1mod3plus 1 0mod3
+2mod3plus 0 1mod3plus
+2mod3plus 1 2mod3plus

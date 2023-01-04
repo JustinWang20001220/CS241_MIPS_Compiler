@@ -1,0 +1,28 @@
+BOF BOF
+INT int
+WAIN wain
+LPAREN (
+INT int
+type INT
+ID a
+dcl type ID
+COMMA ,
+INT int
+type INT
+ID b
+dcl type ID
+RPAREN )
+LBRACE {
+dcls
+statements
+RETURN return
+NUM 42
+factor NUM
+term factor
+expr term
+SEMI ;
+RBRACE }
+main INT WAIN LPAREN dcl COMMA dcl RPAREN LBRACE dcls statements RETURN expr SEMI RBRACE
+procedures main
+EOF EOF
+start BOF procedures EOF

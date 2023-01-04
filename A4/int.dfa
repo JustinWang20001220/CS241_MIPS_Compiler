@@ -1,0 +1,111 @@
+11
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-
+10
+start
+zero
+d21kks
+d32s
+minus
+d32r
+d12ks
+d12s
+d21r
+d1s
+start
+8
+zero
+d21kks
+d32s
+d32r
+d12ks
+d12s
+d21r
+d1s
+77
+start 0 zero
+start 1 d32r
+start 2 d12s
+start 3 d12s
+start 4 d12s
+start 5 d12s
+start 6 d12s
+start 7 d12s
+start 8 d12s
+start 9 d12s
+start - minus
+minus 1 d32s
+minus 2 d12s
+minus 3 d12s
+minus 4 d12s
+minus 5 d12s
+minus 6 d12s
+minus 7 d12s
+minus 8 d12s
+minus 9 d12s
+d32r 0 d12ks
+d32r 1 d12ks
+d32r 2 d21r
+d32r 3 d1s
+d32r 4 d1s
+d32r 5 d1s
+d32r 6 d1s
+d32r 7 d1s
+d32r 8 d1s
+d32r 9 d1s
+d32s 0 d12ks
+d32s 1 d12ks
+d32s 2 d21kks
+d32s 3 d1s
+d32s 4 d1s
+d32s 5 d1s
+d32s 6 d1s
+d32s 7 d1s
+d32s 8 d1s
+d32s 9 d1s
+d21kks 0 d1s
+d21kks 1 d1s
+d21kks 2 d1s
+d21kks 3 d1s
+d21kks 4 d1s
+d21kks 5 d1s
+d21kks 6 d1s
+d21kks 7 d1s
+d21kks 8 d1s
+d12ks 0 d1s
+d12ks 1 d1s
+d12ks 2 d1s
+d12ks 3 d1s
+d12ks 4 d1s
+d12ks 5 d1s
+d12ks 6 d1s
+d12ks 7 d1s
+d12ks 8 d1s
+d12ks 9 d1s
+d12s 0 d1s
+d12s 1 d1s
+d12s 2 d1s
+d12s 3 d1s
+d12s 4 d1s
+d12s 5 d1s
+d12s 6 d1s
+d12s 7 d1s
+d12s 8 d1s
+d12s 9 d1s
+d21r 0 d1s
+d21r 1 d1s
+d21r 2 d1s
+d21r 3 d1s
+d21r 4 d1s
+d21r 5 d1s
+d21r 6 d1s
+d21r 7 d1s

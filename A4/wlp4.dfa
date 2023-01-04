@@ -1,0 +1,255 @@
+80
+Q
+W
+E
+R
+T
+Y
+U
+I
+O
+P
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Z
+X
+C
+V
+B
+N
+M
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+z
+x
+c
+v
+b
+n
+m
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+(
+)
+{
+}
+!
+=
+&
+[
+]
++
+-
+<
+>
+*
+/
+%
+,
+;
+9
+start
+symbol1
+symbol21
+symbol22
+number
+word
+zero
+ne1
+ne2
+start
+7
+zero
+word
+number
+symbol1
+symbol21
+symbol22
+ne2
+154
+start 0 zero
+start 1 number
+start 2 number
+start 3 number
+start 4 number
+start 5 number
+start 6 number
+start 7 number
+start 8 number
+start 9 number
+start Q word
+start W word
+start E word
+start R word
+start T word
+start Y word
+start U word
+start I word
+start O word
+start P word
+start A word
+start S word
+start D word
+start F word
+start G word
+start H word
+start J word
+start K word
+start L word
+start Z word
+start X word
+start C word
+start V word
+start B word
+start N word
+start M word
+start q word
+start w word
+start e word
+start r word
+start t word
+start y word
+start u word
+start i word
+start o word
+start p word
+start a word
+start s word
+start d word
+start f word
+start g word
+start h word
+start j word
+start k word
+start l word
+start z word
+start x word
+start c word
+start v word
+start b word
+start n word
+start m word
+start + symbol1
+start - symbol1
+start * symbol1
+start / symbol1
+start [ symbol1
+start ] symbol1
+start , symbol1
+start ; symbol1
+start & symbol1
+start % symbol1
+start ( symbol1
+start ) symbol1
+start { symbol1
+start } symbol1
+start < symbol21
+start > symbol21
+start = symbol21
+symbol21 = symbol22
+start ! ne1
+ne1 = ne2
+number 0 number
+number 1 number
+number 2 number
+number 3 number
+number 4 number
+number 5 number
+number 6 number
+number 7 number
+number 8 number
+number 9 number
+word Q word
+word W word
+word E word
+word R word
+word T word
+word Y word
+word U word
+word I word
+word O word
+word P word
+word A word
+word S word
+word D word
+word F word
+word G word
+word H word
+word J word
+word K word
+word L word
+word Z word
+word X word
+word C word
+word V word
+word B word
+word N word
+word M word
+word q word
+word w word
+word e word
+word r word
+word t word
+word y word
+word u word
+word i word
+word o word
+word p word
+word a word
+word s word
+word d word
+word f word
+word g word
+word h word
+word j word
+word k word
+word l word
+word z word
+word x word
+word c word
+word v word
+word b word
+word n word
+word m word
+word 0 word
+word 1 word
+word 2 word
+word 3 word
+word 4 word
+word 5 word
+word 6 word
+word 7 word
+word 8 word
+word 9 word

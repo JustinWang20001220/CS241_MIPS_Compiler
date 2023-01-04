@@ -1,0 +1,22 @@
+int wain(int x, int n) {
+    int product = 1;
+    if (n >= 0) {
+        if (n == 0) {
+           product = 1;
+        } else {
+           product = x;
+           while (n > 1) {
+                if (n % 2 == 0) {
+                   n = n / 2;
+                   product = product * product;
+                } else {
+                   n = n - 1;
+                   n = n / 2;
+                   product = product * product;
+                   product = product * x;
+                }
+            }
+        }
+    } else {}
+    return product;
+}
